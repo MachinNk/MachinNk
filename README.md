@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MachinNk
+- 👋 Hi, I’m @Machin
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on app proyects
